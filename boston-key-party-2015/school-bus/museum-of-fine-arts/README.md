@@ -9,7 +9,11 @@
 
 ## Write-up
 
-(TODO)
+we don't really need to predict any seeds as it looks
+it's comparing the entered password with the one in the session
+so before you fill in the session call it
+
+curl http://52.10.107.64:8004/?password=
 
 ## Other write-ups and resources
 
